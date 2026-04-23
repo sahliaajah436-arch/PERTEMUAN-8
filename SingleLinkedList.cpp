@@ -13,5 +13,15 @@ class LinkedList
 {
     Node *START;
 
+public:
+    LinkedList()
+    {
+      START = NULL;  
+    }
 
+    void addMode()
+    {
+        int main;
+        cout << "\nMasukkan Nomor Mahasiswa : ";
+    }
 };
