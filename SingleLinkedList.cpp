@@ -9,4 +9,9 @@ public:
   Node *next;
 };
 
-class LinkedList;
+class LinkedList
+{
+    Node *START;
+
+
+};
